@@ -1,0 +1,17 @@
+@font-face {
+    src: url("../fonts/papyrus.ttf");
+    font-family: 'Papyrus';
+}
+
+.rl-logo-name{
+    font-family: "Papyrus", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    color: red;
+    margin: 0 auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.form-control{
+    border:1px solid black;
+}
